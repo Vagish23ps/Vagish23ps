@@ -43,16 +43,12 @@ AI-powered misinformation detection platform combining fact-checking,
 semantic evidence, news sources, and multi-signal credibility scoring.
 
 ### Lectra
-A productivity platform for capturing notes, tracking tasks and
-deadlines, managing attachments, and scheduling reminders.
-
-### Follow Me Smart Car
-IoT project using **ESP32, Bluetooth/BLE, Flutter, and Firebase**
-to control and monitor a connected vehicle system.
+A productivity platform for capturing notes, tracking tasks and deadlines,
+managing attachments, and scheduling reminders.
 
 ### Cybersecurity Projects
-Security-focused projects and experiments exploring web security,
-networking, reconnaissance, and vulnerability assessment.
+Security-focused projects and experiments involving networking,
+reconnaissance, vulnerability assessment, and web security.
 
 ## 🎯 Currently Learning
 
