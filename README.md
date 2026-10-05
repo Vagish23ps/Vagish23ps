@@ -1,60 +1,69 @@
 # Hi, I'm Vagish 👋
 
-### Cybersecurity-focused Engineering Student
+### IoT & Cybersecurity Engineering Student
 
-I'm an engineering student interested in **Cybersecurity, Networking,
-AI, IoT, and Blockchain**.
+I'm an engineering student focused on **IoT and Cybersecurity**, with
+hands-on experience building projects across **AI, software development,
+networking, and connected systems**.
 
-I enjoy building practical projects, experimenting with technologies,
-and understanding how systems work — especially how they can be secured.
+I enjoy building practical systems, experimenting with technology,
+and understanding how things work — especially how they can be secured.
 
-## 🔐 What I'm Focused On
+## 🔐 Focus Areas
 
 - Cybersecurity & VAPT
-- Computer Networks
+- IoT & Connected Systems
+- Network Security
 - Linux
 - Python
-- Web Security
 - AI × Cybersecurity
-- IoT Security
+- Web Security
 
-## 🛠️ Tech I Work With
+## 🛠️ Technologies
 
 **Languages**
-Python · JavaScript · TypeScript · C
+Python · C · C++ · Java · JavaScript · TypeScript · SQL
+
+**IoT**
+ESP32 · IoT Systems · Bluetooth / BLE · Sensors · Firebase
 
 **Cybersecurity**
-Kali Linux · Metasploit · Nikto · OpenVAS
+Kali Linux · Networking · VAPT · Metasploit · Nikto · OpenVAS
 
 **Development**
-Next.js · React · FastAPI · Node.js
+React · Next.js · FastAPI · Node.js · Flutter
 
-**Tools**
-Git · GitHub · Linux · Packet Tracer
+**Databases & Tools**
+MySQL · MongoDB · Firebase · Git · GitHub
 
 ## 🚀 Featured Projects
 
 ### SATYA
-AI-powered misinformation detection platform that verifies claims
-using semantic similarity, fact-checking sources, news feeds,
-and multi-signal credibility scoring.
+AI-powered misinformation detection platform combining fact-checking,
+semantic evidence, news sources, and multi-signal credibility scoring.
 
 ### Lectra
-A productivity platform for managing notes, tasks, deadlines,
-attachments, reminders, and academic work.
+A productivity platform for capturing notes, tracking tasks and
+deadlines, managing attachments, and scheduling reminders.
+
+### Follow Me Smart Car
+IoT project using **ESP32, Bluetooth/BLE, Flutter, and Firebase**
+to control and monitor a connected vehicle system.
 
 ### Cybersecurity Projects
-Security-focused tools and experiments exploring web security,
+Security-focused projects and experiments exploring web security,
 networking, reconnaissance, and vulnerability assessment.
 
 ## 🎯 Currently Learning
 
 - Advanced Cybersecurity
 - DSA & Problem Solving
-- Web Security
-- AI Security
 - Network Security
+- IoT Security
+- AI Security
+- Web Security
 
-### 📫 Connect With Me
+## 📫 Connect With Me
 
-[LinkedIn](https://www.linkedin.com/in/vagish-shanbhag-a39752341/) · [GitHub](https://github.com/Vagish23ps)
+[LinkedIn](https://www.linkedin.com/in/vagish-shanbhag-a39752341/) ·
+[GitHub](https://github.com/Vagish23ps)
