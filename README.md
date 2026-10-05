@@ -55,6 +55,6 @@ networking, reconnaissance, and vulnerability assessment.
 - AI Security
 - Network Security
 
-## 📫 Connect With Me
+### 📫 Connect With Me
 
-[LinkedIn](www.linkedin.com/in/vagish-shanbhag-a39752341)
+[LinkedIn](https://www.linkedin.com/in/vagish-shanbhag-a39752341/) · [GitHub](https://github.com/Vagish23ps)
