@@ -2,14 +2,11 @@
 
 ### IoT & Cybersecurity Engineering Student
 
-I'm an engineering student focused on **IoT and Cybersecurity**, with
-hands-on experience building projects across **AI, software development,
-networking, and connected systems**.
+I'm an engineering student specializing in **IoT and Cybersecurity**, with an interest in AI, software development, networking, and connected systems.
 
-I enjoy building practical systems, experimenting with technology,
-and understanding how things work — especially how they can be secured.
+I like building things, trying out new technologies, and understanding how systems actually work — especially how they can be made more secure.
 
-## 🔐 Focus Areas
+## What I'm Interested In
 
 - Cybersecurity & VAPT
 - IoT & Connected Systems
@@ -19,47 +16,44 @@ and understanding how things work — especially how they can be secured.
 - AI × Cybersecurity
 - Web Security
 
-## 🛠️ Technologies
+## Technologies I Work With
 
-**Languages**
+**Languages**  
 Python · C · C++ · Java · JavaScript · TypeScript · SQL
 
-**IoT**
+**IoT**  
 ESP32 · IoT Systems · Bluetooth / BLE · Sensors · Firebase
 
-**Cybersecurity**
+**Cybersecurity**  
 Kali Linux · Networking · VAPT · Metasploit · Nikto · OpenVAS
 
-**Development**
+**Development**  
 React · Next.js · FastAPI · Node.js · Flutter
 
-**Databases & Tools**
+**Databases & Tools**  
 MySQL · MongoDB · Firebase · Git · GitHub
 
-## 🚀 Featured Projects
+## Projects
 
 ### SATYA
-AI-powered misinformation detection platform combining fact-checking,
-semantic evidence, news sources, and multi-signal credibility scoring.
+An AI-powered misinformation detection platform that checks claims using fact-checking sources, semantic evidence, news sources, and multiple signals to estimate credibility.
 
 ### Lectra
-A productivity platform for capturing notes, tracking tasks and deadlines,
-managing attachments, and scheduling reminders.
+A productivity app I built to keep track of notes, tasks, deadlines, attachments, and reminders in one place.
 
 ### Cybersecurity Projects
-Security-focused projects and experiments involving networking,
-reconnaissance, vulnerability assessment, and web security.
+A collection of projects and experiments where I explore networking, reconnaissance, vulnerability assessment, and web security.
 
-## 🎯 Currently Learning
+## Currently Learning
 
-- Advanced Cybersecurity
+- Cybersecurity
 - DSA & Problem Solving
 - Network Security
 - IoT Security
 - AI Security
 - Web Security
 
-## 📫 Connect With Me
+## Connect With Me
 
 [LinkedIn](https://www.linkedin.com/in/vagish-shanbhag-a39752341/) ·
 [GitHub](https://github.com/Vagish23ps)
