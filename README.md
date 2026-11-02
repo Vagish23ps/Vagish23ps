@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2600&pause=900&color=22D3EE&center=true&vCenter=true&width=720&height=55&lines=Hello%2C+I+am+Vagish;Exploring+Cybersecurity+%26+Vulnerability+Assessment;Building+Local-First+Applications;Working+with+IoT+%26+Connected+Systems;Exploring+AI+for+Information+Verification;Learning+through+Projects+and+Hands-on+Labs" alt="Rotating engineering interests"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2600&pause=900&color=22D3EE&center=true&vCenter=true&width=720&height=55&lines=Hello+%F0%9F%91%8B%2C+I+am+Vagish;Exploring+Cybersecurity+%26+Vulnerability+Assessment;Building+Local-First+Applications;Working+with+IoT+%26+Connected+Systems;Exploring+AI+for+Information+Verification;Learning+through+Projects+and+Hands-on+Labs" alt="Rotating engineering interests"/>
 </p>
 
 <p align="center">
