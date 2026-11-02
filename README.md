@@ -1,29 +1,29 @@
-<!-- Animated profile header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,45:073B5C,100:00A6C7&height=165&section=header&text=VAGISH%20SHANBHAG&fontSize=43&fontColor=FFFFFF&fontAlignY=42&animation=twinkling" width="100%" alt="Animated greeting banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,45:073B5C,100:00A6C7&height=190&section=header&text=VAGISH%20SHANBHAG&fontSize=43&fontColor=FFFFFF&fontAlignY=38&animation=twinkling&desc=IoT%20%7C%20Cybersecurity%20Engineering%20Student&descAlignY=62&descSize=17" width="100%" alt="Vagish Shanbhag — IoT and Cybersecurity Engineering Student"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2500&pause=850&color=22D3EE&center=true&vCenter=true&width=680&height=55&lines=Hi%2C+I%27m+Vagish+%F0%9F%91%8B;IoT+%26+Cybersecurity+Engineering+Student;Exploring+Vulnerability+Assessment+%26+Network+Security;Building+Local-First+Applications;Experimenting+with+AI+%26+Information+Verification;Learning+by+Building+and+Testing" alt="Animated areas of interest"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2600&pause=900&color=22D3EE&center=true&vCenter=true&width=720&height=55&lines=Exploring+Cybersecurity+%26+Vulnerability+Assessment;Building+Local-First+Applications;Working+with+IoT+%26+Connected+Systems;Exploring+AI+for+Information+Verification;Learning+through+Projects+and+Hands-on+Labs" alt="Rotating engineering interests"/>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Vagish23ps"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
-  <a href="https://www.linkedin.com/in/vagish-shanbhag-a39752341/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
-  <a href="https://leetcode.com/u/Vagishps_23/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+  <a href="https://github.com/Vagish23ps"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
+  <a href="https://www.linkedin.com/in/vagish-shanbhag-a39752341/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
+  <a href="https://leetcode.com/u/Vagishps_23/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+  <img src="https://img.shields.io/badge/Location-Bengaluru%2C%20India-2E8B57?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location: Bengaluru, India"/>
 </p>
 
 ---
 
 ## About Me
 
-I'm an engineering student focused on **IoT and Cybersecurity**. I spend most of my time learning how software, networks, and connected devices work, then applying that knowledge through projects and lab experiments. My current focus is cybersecurity, networking, Linux, Python, and problem-solving.
+I'm an engineering student focused on **IoT and Cybersecurity**. I work on software projects, practise DSA, and use labs and coursework to build my understanding of networking, Linux, and security tools. I'm particularly interested in VAPT, network security, connected devices, and practical applications of AI.
 
 ---
 
 ## Technical Interests
 
-| Area | What I work on and explore |
+| Area | What I'm exploring |
 |---|---|
 | **Cybersecurity & VAPT** | Reconnaissance, vulnerability assessment, web security testing, and tools such as Metasploit, Nikto, and OpenVAS in authorised labs. |
 | **Network Security** | TCP/IP, routing, packet analysis, network services, traffic inspection, and common network weaknesses. |
@@ -39,7 +39,7 @@ I'm an engineering student focused on **IoT and Cybersecurity**. I spend most of
 **Programming languages**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,ts&theme=dark" alt="Programming languages"/>
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,ts&theme=dark" alt="Python, C, C++, Java, JavaScript and TypeScript"/>
 </p>
 
 **IoT & hardware**
@@ -54,21 +54,21 @@ I'm an engineering student focused on **IoT and Cybersecurity**. I spend most of
 
 **Development**
 
-<p><img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,fastapi,flutter,html,css&theme=dark" alt="Development technologies"/></p>
+<p><img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,fastapi,flutter,html,css&theme=dark" alt="React, Next.js, Node.js, FastAPI, Flutter, HTML and CSS"/></p>
 
 **Databases & tools**
 
-<p><img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,git,github,vscode&theme=dark" alt="Databases and tools"/></p>
+<p><img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,git,github,vscode&theme=dark" alt="MySQL, MongoDB, Firebase, Git, GitHub and VS Code"/></p>
 
 ---
 
 ## Featured Projects
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:073B5C,100:00A6C7&height=58&section=header&text=01%20%7C%20SATYA%20%E2%80%94%20Misinformation%20Detection&fontSize=21&fontColor=FFFFFF&animation=fadeIn" width="100%" alt="SATYA project banner"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=2200&pause=900&color=22D3EE&center=true&vCenter=true&width=650&height=48&lines=01+%7C+SATYA;AI-Powered+Misinformation+Detection" alt="SATYA — animated project title"/>
 </p>
 
-[**Repository: satya-ai-misinformation-detector**](https://github.com/Vagish23ps/satya-ai-misinformation-detector)
+[**View SATYA source code**](https://github.com/Vagish23ps/satya-ai-misinformation-detector)
 
 SATYA analyses submitted text, news headlines, and forwarded messages to estimate the credibility of a claim. It gathers fact-check results and external evidence, compares the evidence semantically, and combines several signals into a report with a credibility score and risk category.
 
@@ -95,13 +95,13 @@ SATYA analyses submitted text, news headlines, and forwarded messages to estimat
 
 `Text input → AI detection → Fact-check lookup + evidence collection → Semantic analysis → Scoring engine → Truth report`
 
-**Current limitations:** The score is an estimate based on available signals, not proof that a claim is true or false. Fact-check coverage depends on claims already reviewed by fact-checking sources. The repository documents that image, video, and audio analysis are not included in the current version.
+**Current limitations:** The score is an estimate based on available signals, not proof that a claim is true or false. Fact-check coverage depends on claims already reviewed by fact-checking sources. Image, video, and audio analysis are not included in the current version.
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:073B5C,100:00A6C7&height=58&section=header&text=02%20%7C%20Lectra%20%E2%80%94%20Local-First%20Productivity%20App&fontSize=20&fontColor=FFFFFF&animation=fadeIn" width="100%" alt="Lectra project banner"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=2200&pause=900&color=22D3EE&center=true&vCenter=true&width=650&height=48&lines=02+%7C+LECTRA;Local-First+Notes%2C+Tasks+%26+Reminders" alt="Lectra — animated project title"/>
 </p>
 
-[**Repository: Lectra**](https://github.com/Vagish23ps/Lectra)
+[**View Lectra source code**](https://github.com/Vagish23ps/Lectra)
 
 Lectra is a local-first productivity app for capturing notes, organising tasks, tracking deadlines, and managing reminders. It works as a web app and as an Android app packaged with Capacitor. Its data is stored on the device, allowing the core app to work offline without a mandatory account or external application server.
 
@@ -145,11 +145,14 @@ Lectra is a local-first productivity app for capturing notes, organising tasks, 
 ## GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vagish23ps&show_icons=true&include_all_commits=true&hide_border=true&theme=transparent&rank_icon=github" height="170" alt="GitHub account statistics"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vagish23ps&layout=compact&hide_border=true&theme=transparent" height="170" alt="Most used repository languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vagish23ps&theme=github_dark" width="96%" alt="GitHub profile contribution summary"/>
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vagish23ps&theme=github_dark" height="170" alt="GitHub statistics"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vagish23ps&theme=github_dark" height="170" alt="Repository language distribution"/>
 </p>
 
-<p align="center"><sub>These cards are generated by an external service and may be temporarily unavailable or rate-limited. Language percentages describe code in repositories, not overall engineering ability.</sub></p>
+<p align="center"><sub>GitHub cards are provided by an external service. If they fail to load, the service may be unavailable or rate-limited; the cards are not generated by GitHub itself.</sub></p>
 
 ---
 
